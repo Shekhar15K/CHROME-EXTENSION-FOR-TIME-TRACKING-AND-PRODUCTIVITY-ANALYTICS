@@ -64,4 +64,4 @@ Data Encryption: All data in transit and at rest will be encrypted to prevent un
 
 User Control: Users will have complete control over their data, including the ability to delete their history, revoke access, and manage settings related to data collection.
 
-OUTPUT
+OUTPUT: ![Image](https://github.com/user-attachments/assets/3fe700ae-6f07-46f5-8274-1877295be384)
